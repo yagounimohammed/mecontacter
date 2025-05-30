@@ -22,6 +22,18 @@
       max-width: 800px;
       margin: 0 auto;
     }
+ }
+    .btn-acceuil {
+      background-color: #2980b9;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 20px;
+      transition: background 0.3s ease;
+    }
     section {
       margin-bottom: 30px;
     }
@@ -51,6 +63,12 @@
   </style>
 </head>
 <body>
+ <header>
+    <h1>YAGOUNI Mohammed</h1>
+    <p>Accueil</p>
+    <!-- 👇 Le bouton est bien ici -->
+    <a href="https://yagounimohammed.github.io/main/" class="btn-contact">Me contacter</a>
+  </header>
 
   <header>
     <h1>Me Contacter</h1>
