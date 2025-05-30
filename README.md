@@ -34,6 +34,20 @@
       margin-top: 20px;
       transition: background 0.3s ease;
     }
+.btn-integration {
+  background-color: #27ae60;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+.btn-integration:hover {
+  background-color: #1e8449;
+}
     section {
       margin-bottom: 30px;
     }
@@ -68,6 +82,7 @@
     <h1>Me Contacter</h1>
     <p>Pour toute communication YAGOUNI Mohammed</p>
 <a href="https://yagounimohammed.github.io/main/" class="btn-contact" target="_blank">Contact</a>
+<a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d’intégration</a>
   </header>
   <main>
     <section>
