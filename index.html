@@ -61,7 +61,7 @@
     <section>
       <h2>Informations de contact</h2>
       <p class="info">📞 Téléphone : <a href="tel:0552606264">0552606264</a></p>
-      <p class="info">📧 Email : <a href="mailto:yagounimohammed@gmail.com">yagounimohammed@gmail.com</a></p>
+      <p class="info">📧 Email : <a href="mailto:mohammedyagouni@gmail.com">yagounimohammed@gmail.com</a></p>
     </section>
   </main>
 
