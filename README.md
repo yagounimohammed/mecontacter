@@ -63,10 +63,6 @@
   </style>
 </head>
 <body>
- <header>
-    <!-- 👇 Le bouton est bien ici -->
-    <a href="https://yagounimohammed.github.io/main/" class="btn-contact">Acceuil</a>
-  </header>
 
   <header>
     <h1>Me Contacter</h1>
