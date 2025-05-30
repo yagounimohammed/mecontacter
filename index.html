@@ -111,7 +111,7 @@
     <h1>Me Contacter</h1>
     <p>Pour toute communication avec YAGOUNI Mohammed</p>
     <a href="https://yagounimohammed.github.io/main/" class="btn-contact" target="_blank">Retour à l'accueil</a>
-  <a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d’intégration</a>
+  <a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d'intérêt</a>
 <a href="https://yagounimohammed.github.io/cps/" class="btn-cps" target="_blank">Communications & Publications</a>
 
   </header>
