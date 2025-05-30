@@ -67,7 +67,7 @@
     <h1>YAGOUNI Mohammed</h1>
     <p>Accueil</p>
     <!-- 👇 Le bouton est bien ici -->
-    <a href="https://yagounimohammed.github.io/main/" class="btn-contact">Me contacter</a>
+    <a href="https://yagounimohammed.github.io/main/" class="btn-contact">Acceuil</a>
   </header>
 
   <header>
