@@ -51,6 +51,20 @@
 .btn-integration:hover {
   background-color: #1e8449;
 }
+.btn-cps {
+  background-color: #8e44ad;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+.btn-cps:hover {
+  background-color: #6c3483;
+}
 
     main {
       padding: 40px 20px;
@@ -98,6 +112,7 @@
     <p>Pour toute communication avec YAGOUNI Mohammed</p>
     <a href="https://yagounimohammed.github.io/main/" class="btn-contact" target="_blank">Retour à l'accueil</a>
   <a href="https://yagounimohammed.github.io/di/" class="btn-integration" target="_blank">Domaine d’intégration</a>
+<a href="https://yagounimohammed.github.io/cps/" class="btn-cps" target="_blank">Communications & Publications</a>
 
   </header>
 
